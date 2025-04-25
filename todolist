@@ -1,0 +1,14 @@
+{
+  {
+    done = true,
+    text = "Item 3",
+  },
+  {
+    done = false,
+    text = "Item 2",
+  },
+  {
+    done = false,
+    text = "Item 1",
+  },
+}
